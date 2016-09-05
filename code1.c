@@ -2,6 +2,7 @@
 //#include "usart.h"
 #include "delay.h"
 #iclude "sys.h"
+#define ok 1
 
 #define bool int
 #define true 1
